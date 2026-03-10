@@ -17,7 +17,7 @@ package com.dsa.practice.algorithms.sorting;
  *   <tr><td>Quick</td><td>O(n log n)</td><td>O(n log n)</td><td>O(n²)</td><td>O(log n)</td><td>No</td></tr>
  * </table>
  * 
- * @author DSA Practice
+ * @author Praveen Gaddam
  * @version 1.0
  */
 public class SortingAlgorithms {

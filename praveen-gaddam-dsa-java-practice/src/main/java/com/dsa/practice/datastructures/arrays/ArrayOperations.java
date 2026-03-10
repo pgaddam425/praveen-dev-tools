@@ -14,7 +14,7 @@ package com.dsa.practice.datastructures.arrays;
  *   <li>In-place operations minimize space usage</li>
  * </ul>
  * 
- * @author DSA Practice
+ * @author Praveen Gaddam
  * @version 1.0
  */
 public class ArrayOperations {

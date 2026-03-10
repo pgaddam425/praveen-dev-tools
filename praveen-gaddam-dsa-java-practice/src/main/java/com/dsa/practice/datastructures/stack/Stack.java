@@ -23,7 +23,7 @@ package com.dsa.practice.datastructures.stack;
  *   <li>Browser history navigation</li>
  * </ul>
  * 
- * @author DSA Practice
+ * @author Praveen Gaddam
  * @version 1.0
  */
 public class Stack {
